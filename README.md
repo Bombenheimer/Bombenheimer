@@ -7,5 +7,5 @@ Age: 18
 
 Programming Languages: Python, C, Javascript, Rust, C++
 
-- Projects: <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong>
+Projects: <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong>
 </details>

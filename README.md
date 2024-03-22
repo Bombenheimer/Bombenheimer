@@ -5,7 +5,7 @@ Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am progra
 <details>
 <summary> Details </summary>
   <ul>
-    <li>Project(s): <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Bombenheimer</a></strong></li>
+    <li>Project(s): <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong></li>
     <li>Programming Languages: Python, Bash, C</li>
     <li>Age: 19</li>
     <li>Country: United States</li>

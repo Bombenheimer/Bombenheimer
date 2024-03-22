@@ -4,9 +4,9 @@ Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am progra
 
 <details>
 
-Age: 18
+Age: 19
 
-Programming Languages: Python, C, Javascript, Rust, C++
+Programming Languages: Python, C
 
 Projects: <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong>
 

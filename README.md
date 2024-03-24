@@ -16,6 +16,6 @@ Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am progra
 <summary> Highlights </summary>
   <ul>
     <li>Project(s): <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong></li>
-    <li>Participated in the 2023 NCAE Cybergames CTF and finished in 2nd Place</li>
+    <li>Participated in the 2023 NCAE Cybergames CTF and finished in <strong><a href="https://github.com/Bombenheimer/Bombenheimer/blob/main/Outside%20Experience/Competitions/NCAE-Cybergames-Final.jpg">2nd Place</a></strong></li>
   </ul>
 </details>

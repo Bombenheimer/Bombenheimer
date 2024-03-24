@@ -5,10 +5,17 @@ Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am progra
 <details>
 <summary> Details </summary>
   <ul>
-    <li>Project(s): <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong></li>
     <li>Programming Languages: Python, Bash, C</li>
     <li>Age: 19</li>
     <li>Country: United States</li>
     <li>Education: University of North Florida</li>
+  </ul>
+</details>
+
+<details>
+<summary> Highlights </summary>
+  <ul>
+    <li>Project(s): <strong><a href="https://github.com/Bombenheimer/Aliencrypt">Aliencrypt</a></strong></li>
+    <li>Participated in the 2023 NCAE Cybergames CTF and finished in 2nd Place</li>
   </ul>
 </details>

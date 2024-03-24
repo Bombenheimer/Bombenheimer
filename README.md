@@ -5,10 +5,17 @@ Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am progra
 <details>
 <summary> Details </summary>
   <ul>
-    <li>Programming Languages: Python, Bash, C</li>
     <li>Age: 19</li>
-    <li>Country: United States</li>
+    <li>Country: United States </li>
     <li>Education: University of North Florida</li>
+  </ul>
+</details>
+
+<details>
+<summary> Technical Information </summary>
+  <ul>
+    <li>Programming Languages: Python, Bash, C</li>
+    <li>Linux Distributions Used: Kali, Mint, Ubuntu</li>
   </ul>
 </details>
 

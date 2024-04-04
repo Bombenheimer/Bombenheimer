@@ -1,10 +1,15 @@
 # My README
 
-Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am programmatically proficient and technically efficient who is very persistent in my field. I work tirelessly to find and manage vulnerabilities, risks, threats, and deter threat actors from causing harm to businesses and organizations, as well as the people that they serve. In this repository you will find information about me, my accomplishments, and some of my active projects. I am open to contribute to any project as well.
+<div id="header" align="center">
+  Bombenheimer
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bombenheimer&count_private=true&theme=tokyonight&showicons=true)]()
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn Profile URL)
 
+  Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am programmatically proficient and technically efficient who is very persistent in my field. I work tirelessly to find and manage vulnerabilities, risks, threats, and deter threat actors from causing harm to businesses and organizations, as well as the people that they serve. In this repository you will find information about me, my accomplishments, and some of my active projects. I am open to contribute to any project as well.
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bombenheimer&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bombenheimer&langs_count=5&theme=tokyonight)]()
+</div>
 
 <details>
 <summary> Details </summary>

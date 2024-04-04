@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  # <div style="text-align: center;">**Bombenheimer**</div>
+  # <div style="text-align: center;">💻 **Bombenheimer** 💻</div>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-smith-4a4941296/)
   

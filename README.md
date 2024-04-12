@@ -6,8 +6,8 @@
   [![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@arrgs8)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bombenheimer/)
   [![GitHub Badge](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i7hr5eqfinn6ricygtgsywuthu?si=c36f7c5ad5d34407)
-  
-  <img src="https://komarev.com/ghpvc/?username=bombenheimer&style=flat-square&color=blue" alt=""/>
+
+  ![GitHub followers](https://img.shields.io/github/followers/Bombenheimer?style=for-the-badge)
 
   ### About me
   Hello, I am @Bombenheimer, a ethical hacker and security researcher. I am programmatically proficient and technically efficient who is very persistent in my field. I work tirelessly to find and manage vulnerabilities, risks, threats, and deter threat actors from causing harm to businesses and organizations, as well as the people that they serve. In this repository you will find information about me, my accomplishments, and some of my active projects. I am open to contribute to any project as well.

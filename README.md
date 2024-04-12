@@ -2,10 +2,10 @@
 
   # <div style="text-align: center;">💻 **Bombenheimer** 💻</div>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-smith-4a4941296/)
-  [![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@arrgs8)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bombenheimer/)
-  [![GitHub Badge](https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i7hr5eqfinn6ricygtgsywuthu?si=c36f7c5ad5d34407)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-smith-4a4941296/)
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@arrgs8)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bombenheimer/)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i7hr5eqfinn6ricygtgsywuthu?si=c36f7c5ad5d34407)
 
   ![GitHub followers](https://img.shields.io/github/followers/Bombenheimer?style=for-the-badge)
 

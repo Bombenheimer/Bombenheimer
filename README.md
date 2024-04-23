@@ -25,7 +25,7 @@
   </div>
 
   ***
-
+  
   ### My Stack
   [![My Skills](https://skillicons.dev/icons?i=python,c,bash,kali,mint,ubuntu,vim,neovim,stackoverflow&theme=dark&perline=3)](https://skillicons.dev)
 
@@ -35,9 +35,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bombenheimer&theme=dark&background=000000)](https://git.io/streak-stats)
   <br/>
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bombenheimer&count_private=true&theme=tokyonight&showicons=true)]()
-  <br/>
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bombenheimer&langs_count=5&theme=tokyonight)]()
-
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i7hr5eqfinn6ricygtgsywuthu&cover_image=true&theme=novatorem&show_offline=false&background_color=3e1976&interchange=true&bar_color=5835f6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <details>

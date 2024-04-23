@@ -10,6 +10,7 @@
   [![Spotify Badge](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i7hr5eqfinn6ricygtgsywuthu?si=c36f7c5ad5d34407)
   </br>
   ![GitHub followers](https://img.shields.io/github/followers/Bombenheimer?style=for-the-badge)
+  ![GitHub User's stars](https://img.shields.io/github/stars/bombenheimer?style=for-the-badge)
 
   ### <div style="text-align: center;">**𝚂𝚝𝚊𝚝𝚜**</div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bombenheimer&theme=dark&background=000000)](https://git.io/streak-stats)

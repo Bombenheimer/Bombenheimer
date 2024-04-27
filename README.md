@@ -18,6 +18,7 @@
   </br>
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bombenheimer&langs_count=5&theme=tokyonight)]()
   </br>
+  ![image](https://github-profile-trophy.vercel.app/?username=bombenheimer&theme=tokyonight)
 
   ### <div style="text-align: center;">**𝚂𝚙𝚘𝚝𝚒𝚏𝚢**</div>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i7hr5eqfinn6ricygtgsywuthu&cover_image=true&theme=novatorem&show_offline=false&background_color=3e1976&interchange=true&bar_color=5835f6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

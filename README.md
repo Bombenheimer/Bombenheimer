@@ -24,7 +24,7 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i7hr5eqfinn6ricygtgsywuthu&cover_image=true&theme=novatorem&show_offline=false&background_color=3e1976&interchange=true&bar_color=5835f6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   ### <div style="text-align: center;">**𝚂𝚔𝚒𝚕𝚕𝚜**</div>
-  [![My Skills](https://skillicons.dev/icons?i=python,c,bash,kali,mint,ubuntu,vim,neovim,stackoverflow&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,bash,kali,mint,ubuntu,vim,neovim,stackoverflow&theme=dark)](https://skillicons.dev)
 </div>
 
 <details>

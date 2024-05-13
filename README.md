@@ -8,6 +8,7 @@
   [![Discord Badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@deathsecure)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bombenheimer/)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i7hr5eqfinn6ricygtgsywuthu?si=c36f7c5ad5d34407)
+  [![Sololearn Badge](https://img.shields.io/badge/Sololearn-f20059?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/30252353)
   </br>
   ![GitHub followers](https://img.shields.io/github/followers/Bombenheimer?style=for-the-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/bombenheimer?style=for-the-badge)

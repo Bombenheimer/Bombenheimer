@@ -1,7 +1,7 @@
 <div align="center">
 
-  # <div style="text-align: center;">🐉 **𝙱𝚘𝚖𝚋𝚎𝚗𝚑𝚎𝚒𝚖𝚎𝚛** 🐉</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=𝙱𝚘𝚖𝚋𝚎𝚗𝚑𝚎𝚒𝚖𝚎𝚛&animation=fadeIn" >
+  
   ### <div style="text-align: center;">**𝚂𝚘𝚌𝚒𝚊𝚕𝚜**</div>
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-smith-4a4941296/)
